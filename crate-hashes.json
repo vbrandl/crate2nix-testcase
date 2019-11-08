@@ -1,0 +1,8 @@
+{
+  "adler32 1.0.4 (registry+https://github.com/rust-lang/crates.io-index)": "157bfkgcy4p3cclfv378x7clxcj3l23jj7sckjbqkmdjbi72y134",
+  "cfg-if 0.1.10 (registry+https://github.com/rust-lang/crates.io-index)": "0x52qzpbyl2f2jqs7kkqzgfki2cpq99gpfjjigdp8pwwfqk01007",
+  "crc32fast 1.2.0 (registry+https://github.com/rust-lang/crates.io-index)": "1mx88ndqln6vzg7hjhjp8b7g0qggpqggsjrlsdqrfsrbpdzffcn8",
+  "flate2 1.0.12 (registry+https://github.com/rust-lang/crates.io-index)": "11bw2rp905w43pc4fxgsmal93zf26zkfkhk8h0ac5ik3spy0drj6",
+  "libc 0.2.65 (registry+https://github.com/rust-lang/crates.io-index)": "0nx1n3xvwj2ikw1d6v17154jx2sb9sgrv6fwbnq79c614a3mhmad",
+  "miniz_oxide 0.3.5 (registry+https://github.com/rust-lang/crates.io-index)": "0h8zwqs0j2qmrah7zxcv39bc6w25aq12vmy3rwjajdl1djb6rf82"
+}
